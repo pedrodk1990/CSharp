@@ -48,7 +48,7 @@ Alguns dos meus projetos mais bacanas CSharp
 <h3>Controle de gastos pessoais</h3>
 
 > <h6><a href="https://github.com/pedrodk1990/CSharp/tree/master/GastosPessoais">Projeto</a></h6>
-> <h6><a href="https://github.com/pedrodk1990/CSharp/tree/master/GastosPessoais/GastosPessoais/Program.cs">Código</a></h6>
+> <h6><a href="https://github.com/pedrodk1990/CSharp/tree/master/GastosPessoais/GastosPessoais/Form1.cs">Código</a></h6>
 
 <p>Adiciona, Edita, Remove e Lista atividades econômicas pessoais, calculando despesas e receitas, baseado em windows forms. Conta com um relatório básico criado com ReportViewer.</p>
 
