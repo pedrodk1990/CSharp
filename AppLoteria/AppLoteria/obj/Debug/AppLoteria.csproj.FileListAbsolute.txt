@@ -1,0 +1,7 @@
+C:\Users\ivone\source\repos\AppLoteria\AppLoteria\obj\Debug\AppLoteria.csprojAssemblyReference.cache
+C:\Users\ivone\source\repos\AppLoteria\AppLoteria\obj\Debug\AppLoteria.csproj.CoreCompileInputs.cache
+C:\Users\ivone\source\repos\AppLoteria\AppLoteria\bin\Debug\AppLoteria.exe.config
+C:\Users\ivone\source\repos\AppLoteria\AppLoteria\bin\Debug\AppLoteria.exe
+C:\Users\ivone\source\repos\AppLoteria\AppLoteria\bin\Debug\AppLoteria.pdb
+C:\Users\ivone\source\repos\AppLoteria\AppLoteria\obj\Debug\AppLoteria.exe
+C:\Users\ivone\source\repos\AppLoteria\AppLoteria\obj\Debug\AppLoteria.pdb
