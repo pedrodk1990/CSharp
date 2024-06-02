@@ -10,8 +10,8 @@ Alguns dos meus projetos mais bacanas CSharp
 
 <h3>Sorteador de números da loteria</h3>
 
-> <h6><a href="https://github.com/pedrodk1990/CSharp/tree/main/AppLoteria">Projeto</a></h6>
-> <h6><a href="https://github.com/pedrodk1990/CSharp/tree/main/AppLoteria/AppLoteria/Program.cs">Código</a></h6>
+> <h6><a href="https://github.com/pedrodk1990/CSharp/tree/master/AppLoteria">Projeto</a></h6>
+> <h6><a href="https://github.com/pedrodk1990/CSharp/tree/master/AppLoteria/AppLoteria/Program.cs">Código</a></h6>
 
 <p>Gera 6 números entre 1 e 60 aleatóriamente sem repetição.</p>
 
@@ -47,8 +47,8 @@ Alguns dos meus projetos mais bacanas CSharp
 
 <h3>Controle de gastos pessoais</h3>
 
-> <h6><a href="https://github.com/pedrodk1990/CSharp/tree/main/GastosPessoais">Projeto</a></h6>
-> <h6><a href="https://github.com/pedrodk1990/CSharp/tree/main/GastosPessoais/GastosPessoais/Program.cs">Código</a></h6>
+> <h6><a href="https://github.com/pedrodk1990/CSharp/tree/master/GastosPessoais">Projeto</a></h6>
+> <h6><a href="https://github.com/pedrodk1990/CSharp/tree/master/GastosPessoais/GastosPessoais/Program.cs">Código</a></h6>
 
 <p>Adiciona, Edita, Remove e Lista atividades econômicas pessoais, calculando despesas e receitas, baseado em windows forms. Conta com um relatório básico criado com ReportViewer.</p>
 
