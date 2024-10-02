@@ -1,0 +1,10 @@
+D:\Pedro\GitHub\CSharp1\ponto_eletronico\ponto_eletronico\bin\Debug\ponto_eletronico.exe.config
+D:\Pedro\GitHub\CSharp1\ponto_eletronico\ponto_eletronico\bin\Debug\ponto_eletronico.exe
+D:\Pedro\GitHub\CSharp1\ponto_eletronico\ponto_eletronico\bin\Debug\ponto_eletronico.pdb
+D:\Pedro\GitHub\CSharp1\ponto_eletronico\ponto_eletronico\bin\Debug\Newtonsoft.Json.dll
+D:\Pedro\GitHub\CSharp1\ponto_eletronico\ponto_eletronico\bin\Debug\Newtonsoft.Json.xml
+D:\Pedro\GitHub\CSharp1\ponto_eletronico\ponto_eletronico\obj\Debug\ponto_eletronico.csproj.CoreCompileInputs.cache
+D:\Pedro\GitHub\CSharp1\ponto_eletronico\ponto_eletronico\obj\Debug\ponto_eletronico.exe
+D:\Pedro\GitHub\CSharp1\ponto_eletronico\ponto_eletronico\obj\Debug\ponto_eletronico.pdb
+D:\Pedro\GitHub\CSharp1\ponto_eletronico\ponto_eletronico\obj\Debug\ponto_eletronico.csproj.AssemblyReference.cache
+D:\Pedro\GitHub\CSharp1\ponto_eletronico\ponto_eletronico\obj\Debug\ponto_el.3CE53471.Up2Date

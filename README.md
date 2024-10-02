@@ -1,55 +1,36 @@
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> Projetos BackEnd</h1>  
+<h1 align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> Projetos Back-end</h1>  
 <h3 align="center">do básico ao avançado</h3>   
-Alguns dos meus projetos mais bacanas CSharp
+Alguns projetos bem legais em CSharp
 
 > <ol>
-> <li>Sorteador de números da loteria</li>
-> <li>Controle de gastos pessoais</li>
+  <li>Sorteador de números da loteria</li>
+  <li>Controle de gastos pessoais</li>
+  <li>Autenticação OAuth2.0</li>
+  <li>Ponto eletrônico</li>
 </ol>
 
 <h3>Sorteador de números da loteria</h3>
-
-> <h6><a href="https://github.com/pedrodk1990/CSharp/tree/master/AppLoteria">Projeto</a></h6>
-> <h6><a href="https://github.com/pedrodk1990/CSharp/tree/master/AppLoteria/AppLoteria/Program.cs">Código</a></h6>
-
-<p>Gera 6 números entre 1 e 60 aleatóriamente sem repetição.</p>
-
-<code>
-
-	namespace AppLoteria
-	{
-	    class Program
-	    {
-	        static void Main(string[] args)
-	        {
-	            int[] numeros = new int[6]; //Vetor para armazenar os números gerados.
-	            var rdm = new Random(); //Cria uma variável do tipo Random.
-	            int aleatorio; //Cria uma variável para comparação com o valor do próximo número gerado.
-	            
-	            //Estrutura de repetição para gerar os números de acordo com o tamanho do vetor.
-	            for(var i = 0; i < numeros.Length; i++)
-	            {
-	               aleatorio = rdm.Next(1,61); //Gera um número entre 1 e 60.
-	                while (numeros.Contains(aleatorio)) //Estrutura de repetição para comparar o número gerado com os números armazenados no vetor
-	                {
-	                    aleatorio = rdm.Next(1, 61); //Um novo número randomico é atribuido apenas quando ele não existir no vetor
-	                }
-	                    numeros[i] = aleatorio; //Atribui o número gerado ao vetor
-	                Console.Write(numeros[i].ToString() + " "); //Escreve na tela
-	            }
-	        }
-	    }
-	}
-</code>
-
-
+<p>O programa gera 6 números aleatórios diferentes entre 1 e 60, assegurando que não haja repetições. Ele utiliza um loop para continuar gerando números até encontrar um que ainda não foi escolhido, armazenando esse número em um array. No final, todos os números gerados são exibidos no console.</p>
+<h6><a href="https://github.com/pedrodk1990/CSharp/tree/master/AppLoteria">Projeto</a></h6>
+<h6><a href="https://github.com/pedrodk1990/CSharp/tree/master/AppLoteria/AppLoteria/Program.cs">Código</a></h6>
+<hr/>
 
 <h3>Controle de gastos pessoais</h3>
-
-> <h6><a href="https://github.com/pedrodk1990/CSharp/tree/master/GastosPessoais">Projeto</a></h6>
-> <h6><a href="https://github.com/pedrodk1990/CSharp/tree/master/GastosPessoais/GastosPessoais/Form1.cs">Código</a></h6>
-
 <p>Adiciona, Edita, Remove e Lista atividades econômicas pessoais, calculando despesas e receitas, baseado em windows forms. Conta com um relatório básico criado com ReportViewer.</p>
+<h6><a href="https://github.com/pedrodk1990/CSharp/tree/master/GastosPessoais">Projeto</a></h6>
+<h6><a href="https://github.com/pedrodk1990/CSharp/tree/master/GastosPessoais/GastosPessoais/Form1.cs">Código</a></h6>
+<hr/>
 
+<h3>Autenticação OAuth2.0</h3>
+<p>Este projeto visa mostrar como implementar o protocolo OAuth 2.0 em uma aplicação C#. Com uma interface simples e amigável, os usuários poderão compreender de forma clara como a autenticação e a autorização operam de maneira segura e eficiente.</p>
+<h6><a href="#">Projeto</a></h6>
+<h6><a href="#">Código</a></h6>
+<hr/>
+
+<h3>Ponto eletrônico</h3>
+<p>Demonstra o funcionamento básico de um ponto eletrônico, registrando entrada e saídas de pessoas cadastradas com nome, CPF e senha (funcional para controle de acesso). Conta com verificações de CPF e relatórios com filtro. O armazenamento é local em arquivo .JSON.</p>
+<h6><a href="#">Projeto</a></h6>
+<h6><a href="#">Código</a></h6>
+<hr/>
 
