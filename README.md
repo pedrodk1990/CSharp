@@ -31,7 +31,6 @@ Alguns projetos bem legais em CSharp
 <h3>Ponto eletrônico</h3>
 <p>Demonstra o funcionamento básico de um ponto eletrônico, registrando entrada e saídas de pessoas cadastradas com nome, CPF e senha (funcional para controle de acesso). Conta com verificações de CPF e relatórios com filtro. O armazenamento é local em arquivo .JSON.</p>
 <h6><a href="#">Projeto</a></h6>
+<h6><a href="#">Código</a></h6>
 <hr/>
 
-
-<h6><a href="#">Código</a></h6>
