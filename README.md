@@ -24,13 +24,13 @@ Alguns projetos bem legais em CSharp
 
 <h3>Autenticação OAuth2.0</h3>
 <p>Este projeto visa mostrar como implementar o protocolo OAuth 2.0 em uma aplicação C#. Com uma interface simples e amigável, os usuários poderão compreender de forma clara como a autenticação e a autorização operam de maneira segura e eficiente.</p>
-<h6><a href="#">Projeto</a></h6>
-<h6><a href="#">Código</a></h6>
+<h6><a href="https://github.com/pedrodk1990/CSharp/tree/master/OAuth2.0">Projeto</a></h6>
+<h6><a href="https://github.com/pedrodk1990/CSharp/blob/master/OAuth2.0/OAuth2.0/Controllers/AuthController.cs">Código</a></h6>
 <hr/>
 
 <h3>Ponto eletrônico</h3>
 <p>Demonstra o funcionamento básico de um ponto eletrônico, registrando entrada e saídas de pessoas cadastradas com nome, CPF e senha (funcional para controle de acesso). Conta com verificações de CPF e relatórios com filtro. O armazenamento é local em arquivo .JSON.</p>
-<h6><a href="#">Projeto</a></h6>
-<h6><a href="#">Código</a></h6>
+<h6><a href="https://github.com/pedrodk1990/CSharp/tree/master/ponto_eletronico">Projeto</a></h6>
+<h6><a href="https://github.com/pedrodk1990/CSharp/blob/master/ponto_eletronico/ponto_eletronico/Program.cs">Código</a></h6>
 <hr/>
 
